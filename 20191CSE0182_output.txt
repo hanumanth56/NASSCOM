@@ -1,0 +1,13 @@
+Choose an option: 
+ 1. Decimal to binary 
+ 2. Binary to decimal
+ Option: 
+1
+Input your decimal number:
+Decimal: 
+200
+Binary: 11001000
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
